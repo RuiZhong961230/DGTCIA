@@ -13,13 +13,11 @@ This paper presents a novel optimization method named Dual Gene Targeting Creste
 @article{Zhong:25,  
 title = {Enhanced Crested Ibis Algorithm: Performance Validation in Benchmark Functions, Engineering Problem, and Application in Brain Tumor Detection},  
 journal = {Expert Systems with Applications},  
-volume = {},  
-pages = {},  
+pages = {128231},  
 year = {2025},  
-issn = {0957-4174},
-doi = {},  
-author = {Rui Zhong, Abdelazim G. Hussien, Essam H. Houssein, Jun Yu},  
-note = {Accepted}
+issn = {0957-4174},  
+doi = {https://doi.org/10.1016/j.eswa.2025.128231},  
+author = {Rui Zhong and Abdelazim G. Hussien and Essam H. Houssein and Jun Yu},  
 }
 
 ## Datasets and Libraries
