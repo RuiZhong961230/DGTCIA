@@ -16,7 +16,7 @@ journal = {Expert Systems with Applications},
 pages = {128231},  
 year = {2025},  
 issn = {0957-4174},  
-doi = {https://doi.org/10.1016/j.eswa.2025.128231},  
+doi = {https://doi.org/10.1016/j.eswa.2025.128231 },  
 author = {Rui Zhong and Abdelazim G. Hussien and Essam H. Houssein and Jun Yu},  
 }
 
